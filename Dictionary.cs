@@ -1,0 +1,6 @@
+class Dictionary {
+
+    public Dictionary() {
+        
+    }
+}
